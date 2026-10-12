@@ -74,3 +74,7 @@ estrella listo para relacionar (`movies` como dimensión central, `ratings` 1:1,
 - IMDb no publica en estos datasets sinopsis, presupuesto, recaudación, pósters ni reseñas.
 - `movie_people` incluye solo el reparto/equipo **principal** (unas 10 personas por película).
 - Para actualizar los datos basta con volver a ejecutar el script con `--force-download`.
+
+## Databricks
+
+En [`databricks/`](databricks/) está la versión *lakehouse* (bronze → silver → gold con Delta Lake y Unity Catalog), pensada para aprender Databricks.
