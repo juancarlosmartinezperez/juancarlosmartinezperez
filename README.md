@@ -19,3 +19,7 @@ Power BI · DAX · Power Query · SQL · Microsoft Fabric · Lakehouse · Wareho
 ## Perfil
 
 Doble formación en Administración y Dirección de Empresas y Derecho por la Universidad de Murcia. Mi enfoque combina rigor financiero, calidad del dato y soluciones prácticas para que los equipos puedan decidir mejor y más rápido.
+
+## Proyectos
+
+- [imdb-movies-db](imdb-movies-db/): base de datos SQLite con todas las películas de IMDb y su información.
